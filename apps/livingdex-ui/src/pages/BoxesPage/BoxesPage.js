@@ -7,6 +7,7 @@ import {useHistory} from "react-router-dom"
 import {PokeImg} from "../../components/PokeImg/PokeImg"
 import groupedBoxes from "../../data/boxes/grouped.json"
 import sortedBoxes from "../../data/boxes/sorted.json"
+import interleavedBoxes from "../../data/boxes/interleaved.json"
 
 const boxStyles = {
   grouped: groupedBoxes,
